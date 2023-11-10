@@ -3,5 +3,9 @@ public class bbb {
     int B = 10;
     int bB = b+B;
 
-    String str = "B is not bB,but B is bB.";
+    int bb = 200000;
+
+    int BB = 5000000;
+
+    int bbBB = BB - bb;
 }
