@@ -11,6 +11,4 @@ public class bbb {
     int bbBB = BB - bb;
 
     int aaaaaaaaaaa;
-
-    int bbbbbbbbb;
 }
