@@ -7,7 +7,7 @@ public class bbb {
 
     //コメントアウト
     int notB;
-    //notB is B
+    //notB is B, so true B is notB
 
 
 
