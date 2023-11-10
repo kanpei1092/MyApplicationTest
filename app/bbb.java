@@ -3,9 +3,5 @@ public class bbb {
     int B = 10;
     int bB = b+B;
 
-    int bb = 200000;
-
-    int BB = 5000000;
-
-    int bbBB = BB - bb;
+    String str2 = "ブランチを使ってみてます";
 }
