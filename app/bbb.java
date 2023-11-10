@@ -8,4 +8,6 @@ public class bbb {
     int BB = 5000000;
 
     int bbBB = BB - bb;
+
+    int aaaaaaaaaaa;
 }
