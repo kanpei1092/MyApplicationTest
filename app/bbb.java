@@ -13,4 +13,6 @@ public class bbb {
     int aaaaaaaaaaa;
 
     int bbbbbbbbb;
+
+    //リモートのブランチをいじってみます
 }
